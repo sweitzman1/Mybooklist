@@ -1,0 +1,1 @@
+cd /Users/steph/Documents/Mybooklist && npm install && npm run dev
