@@ -157,8 +157,8 @@ export default function ImportModal({ isOpen, onClose }: Props) {
                   CSV format: Title, Author, Year, CoverURL
                 </p>
                 <code className="block mt-2 text-xs bg-white p-2 rounded text-gray-700">
-                  "The Great Gatsby","F. Scott Fitzgerald",2023,""<br />
-                  "1984","George Orwell",2022,""
+                  &quot;The Great Gatsby&quot;,&quot;F. Scott Fitzgerald&quot;,2023,&quot;&quot;<br />
+                  &quot;1984&quot;,&quot;George Orwell&quot;,2022,&quot;&quot;
                 </code>
               </div>
 
